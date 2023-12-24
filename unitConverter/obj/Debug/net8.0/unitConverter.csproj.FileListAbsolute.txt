@@ -1,0 +1,14 @@
+D:\code\c#\data structures\unitConverter\unitConverter\bin\Debug\net8.0\unitConverter.exe
+D:\code\c#\data structures\unitConverter\unitConverter\bin\Debug\net8.0\unitConverter.deps.json
+D:\code\c#\data structures\unitConverter\unitConverter\bin\Debug\net8.0\unitConverter.runtimeconfig.json
+D:\code\c#\data structures\unitConverter\unitConverter\bin\Debug\net8.0\unitConverter.dll
+D:\code\c#\data structures\unitConverter\unitConverter\bin\Debug\net8.0\unitConverter.pdb
+D:\code\c#\data structures\unitConverter\unitConverter\obj\Debug\net8.0\unitConverter.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\c#\data structures\unitConverter\unitConverter\obj\Debug\net8.0\unitConverter.AssemblyInfoInputs.cache
+D:\code\c#\data structures\unitConverter\unitConverter\obj\Debug\net8.0\unitConverter.AssemblyInfo.cs
+D:\code\c#\data structures\unitConverter\unitConverter\obj\Debug\net8.0\unitConverter.csproj.CoreCompileInputs.cache
+D:\code\c#\data structures\unitConverter\unitConverter\obj\Debug\net8.0\unitConverter.dll
+D:\code\c#\data structures\unitConverter\unitConverter\obj\Debug\net8.0\refint\unitConverter.dll
+D:\code\c#\data structures\unitConverter\unitConverter\obj\Debug\net8.0\unitConverter.pdb
+D:\code\c#\data structures\unitConverter\unitConverter\obj\Debug\net8.0\unitConverter.genruntimeconfig.cache
+D:\code\c#\data structures\unitConverter\unitConverter\obj\Debug\net8.0\ref\unitConverter.dll
